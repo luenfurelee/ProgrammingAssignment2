@@ -19,7 +19,7 @@ makeCacheMatrix <- function() {
 }
 
 
-## CacheSolve computes the inverse of the matrix entered via the set function defined in makeCacheMatrix
+## cacheSolve computes the inverse of the matrix that was entered via the set function defined in makeCacheMatrix
 
 ## If the inverse has already been calculated, then it can be looked up from in the cache.
 ## Otherwise, it calculates the inverse and sets it in the cache via the setInverse function
