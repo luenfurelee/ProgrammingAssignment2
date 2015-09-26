@@ -2,8 +2,7 @@
 
 Written by Steve Lee
 Date: Sept 23, 2015
-Purpose: for COURSERA R-Programming course Assignment 2
-
+Purpose: for the COURSERA R-Programming course Assignment 2
 
 This programming assignment is to write an R function that is able
 to cache potentially time-consuming computations.
